@@ -1,4 +1,4 @@
-![zCoder Banner!](img/miBanner.png)
+<h2>Responsive HTML, CSS & Javascript website</h2>
 
 <br>
 
@@ -6,16 +6,29 @@
 
 <br>
 
-<p style="text-align:justify; font-size:10px">
-This is a complete HTM, CSS & Javascript Template which include:
+![Website banner!](img/readme5.png)
 
-- Background hero video
-- Social media icons
-- hero images with animations hover effects
-- Cards Definitions with animations hover effects
-- Grid of images with animations hover effects
-- Use of animations libraries
-- HTML Form for contact
-- Several Javascript routines for multiple effects
-- etc...
-</p>
+<br>
+
+Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Web_template5):
+
+<br>
+
+---
+
+<br>
+
+<h3>Its include the following features:</h3>
+
+<br>
+
+<ul>
+<li>Using of several CSS animation libraries for hover effects</li>
+<li>Using of several JavaScript libraries for smooth scrolling, animations, etc.</li>
+<li>Social media icons definitons</li>
+<li>Use of Flexbox & Grid technics</li>
+<li>HTML Form for contact management through 3er-parties</li>
+<li>Contact form validation</li>
+<li>Contact form email sending through external API</li>
+<li>Responsive design using Media Queries</li>
+</ul>
